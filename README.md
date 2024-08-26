@@ -14,3 +14,6 @@ First Repo for Cassia
 
 ## Page Link
 [Spiced](https://spiced-academy.com/)
+
+## Image
+![Image](https://ethic.es/wp-content/uploads/2023/03/imagen.jpg)
