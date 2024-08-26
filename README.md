@@ -21,4 +21,12 @@ First Repo for Cassia
 ## Local Image
 ![image](assets/)
 
+## Inline Code
+
+
+## Code Blocc
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
 
