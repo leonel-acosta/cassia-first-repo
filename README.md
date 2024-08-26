@@ -17,3 +17,8 @@ First Repo for Cassia
 
 ## Image
 ![Image](https://ethic.es/wp-content/uploads/2023/03/imagen.jpg)
+
+## Local Image
+![image](assets/)
+
+
