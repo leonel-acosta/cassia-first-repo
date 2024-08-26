@@ -11,3 +11,6 @@ First Repo for Cassia
 - One
 - Two
 - Three
+
+## Page Link
+[Spiced](https://spiced-academy.com/)
