@@ -1,8 +1,8 @@
 # cassia-first-repo
 First Repo for Cassia
 
-## This is a subtitle
+## Ordered List
 
-### Note - Less important
-
-Markdown language
+1. One
+2. Two
+3. Three
